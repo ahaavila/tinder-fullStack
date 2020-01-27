@@ -9,22 +9,22 @@
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ahaavila/tinder-fullStack.svg">
   
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ahaavila/instagram-fullStack.svg">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ahaavila/tinder-fullStack.svg">
   
-  <a href="https://www.codacy.com/app/ahaavila/instagram-fullStack?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ahaavila/instagram-fullStack&amp;utm_campaign=Badge_Grade">
+  <a href="https://www.codacy.com/app/ahaavila/tinder-fullStack?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ahaavila/instagram-fullStack&amp;utm_campaign=Badge_Grade">
     <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/4f87fc059ec846118f2ef2950200b13a.svg">
   </a>
   
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ahaavila/instagram-fullStack.svg">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ahaavila/tinder-fullStack.svg">
   <a href="https://github.com/ahaavila/instagram-fullStack/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ahaavila/instagram-fullStack.svg">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ahaavila/tinder-fullStack.svg">
   </a>
   
-  <a href="https://github.com/ahaavila/instagram-fullStack/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/ahaavila/instagram-fullStack.svg">
+  <a href="https://github.com/ahaavila/tinder-fullStack/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/ahaavila/tinder-fullStack.svg">
   </a>
   
-  <img alt="GitHub" src="https://img.shields.io/github/license/ahaavila/instagram-fullStack.svg"> 
+  <img alt="GitHub" src="https://img.shields.io/github/license/ahaavila/tinder-fullStack.svg"> 
   
 </p>
 
