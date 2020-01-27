@@ -7,7 +7,7 @@
   
 </h4>
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ahaavila/instagram-fullStack.svg">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ahaavila/tinder-fullStack.svg">
   
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ahaavila/instagram-fullStack.svg">
   
