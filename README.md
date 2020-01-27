@@ -24,7 +24,7 @@
     <img alt="Repository issues" src="https://img.shields.io/github/issues/ahaavila/tinder-fullStack.svg">
   </a>
   
-  <img alt="GitHub" src="https://img.shields.io/github/license/ahaavila/tinder-fullStack.svg"> 
+  <img alt="GitHub" src="https://img.shields.io/github/license/ahaavila/tinder-fullStack"> 
   
 </p>
 
